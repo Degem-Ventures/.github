@@ -1,9 +1,12 @@
+
+# OPTION 1:
+
 ---
 name: Feature request
 about: Suggest an idea for this project
 title: "[Feature] - Enter a descriptive title"
 labels: enhancement
-assignees: zszszszs
+assignees: koitoror
 
 ---
 
@@ -19,10 +22,8 @@ A clear and concise description of any alternative solutions or features you've 
 **Additional context**
 Add any other context or screenshots about the feature request here.
 
-
-
-
-OPTION 2:
+---
+# OPTION 2:
 
 ---
 name: Feature request
