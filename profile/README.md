@@ -8,11 +8,11 @@ At Degem Ventures, we embark on a continuous journey of software enchantment, cr
 
 ### 🌟 Contribution Guidelines
 
-Ahoy, brave contributors! We welcome you to join our crew and help steer our projects to new horizons. Sail over to our [Contribution Guidelines](link-to-contribution-guidelines) to learn the ropes and set sail on the sea of collaborative coding.
+Ahoy, brave contributors! We welcome you to join our crew and help steer our projects to new horizons. Sail over to our [Contribution Guidelines](CONTRIBUTING.md) to learn the ropes and set sail on the sea of collaborative coding.
 
 ### 📚 Explore Our Galactic Knowledge Base
 
-Seek knowledge, and you shall find! Dive into the boundless universe of our [Docs](link-to-docs), where you'll discover the secrets of our projects and the wisdom of our stellar engineers.
+Seek knowledge, and you shall find! Dive into the boundless universe of our [Docs](README.md), where you'll discover the secrets of our projects and the wisdom of our stellar engineers.
 
 ### 🎉 Fun Facts
 
